@@ -19,13 +19,13 @@ This project is a journey from data integration to visualization exploring the u
 
 ### Dashboard Details
 **Revenue Growth Analysis:**
-- a card visual displays overall revenue trends over selectable dates for all hotels and countries, controlled by slicers.
-- a line chart depicts revenue fluctuations across various hotel types over time, helping in evaluating the revenue's growth or decline.
+- A card visual displays overall revenue trends over selectable dates for all hotels and countries, controlled by slicers.
+- A line chart depicts revenue fluctuations across various hotel types over time, helping in evaluating the revenue's growth or decline.
 
 **Parking Lot Capacity Analysis**
-- a card displays the total number of car spaces available, helping in evaluating if current parking spaces are adequate. Moreover, table provides more data on necessary car parking spaces and their utilization percentage, which helps in answering potential parking lot expansions.
+- A card displays the total number of car spaces available, helping in evaluating if current parking spaces are adequate. Moreover, table provides more data on necessary car parking spaces and their utilization percentage, which helps in answering potential parking lot expansions.
 
 **Guest Arrival Trends**
-- Donut chart offers insights into which type of hotels attract more guests and at what times of the year which helps in identifying peak seasons.
+- A donut chart offers insights into which type of hotels attract more guests and at what times of the year which helps in identifying peak seasons.
 
 ![Screenshot 2024-04-19 110723](https://github.com/Cherukuri-Thanu/HotelDataViz-CrossPlatformSQL/assets/167354871/984cb5b0-f47e-4ec6-a8f5-eedd1d511b22)
