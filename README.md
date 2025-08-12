@@ -1,4 +1,4 @@
-# HotelDataViz-CrossPlatformSQL
+# Hotel Data Visulization through Cross-Platform SQL
 This project is a journey from data integration to visualization exploring the use of SQL and data handling techniques to understand hotel booking dynamics. This project demonstrates how i work around system compatibility issues and utilize various tools to achieve the projects goals.
 
 ### Technical Challenges & Solutions
